@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+
+button{
+  background-color: lightpink;
+  margin: 3px;
+  border: 2px solid black;
+}
